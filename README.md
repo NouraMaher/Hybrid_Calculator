@@ -47,8 +47,6 @@ No server or additional setup is required. The project runs completely on the cl
 
 ---
 
-## Credits
-
 This project was developed by **Noura Maher**.
 
 ---
@@ -101,8 +99,6 @@ hybrid-calculator/
 لا يتطلب المشروع أي خادم أو إعدادات إضافية، حيث يعمل بالكامل على جانب العميل.
 
 ---
-
-## شكر وتقدير
 
 تم تطوير هذا المشروع بواسطة **Noura Maher**.
 

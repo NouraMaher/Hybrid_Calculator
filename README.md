@@ -26,14 +26,14 @@ This project is a modern, feature-rich, and visually appealing calculator built 
 ---
 
 ## Project Structure
-
+```
 hybrid-calculator/
 ├── index.html          # Main HTML file for the calculator
 ├── style.css           # All CSS for styling and theming
 ├── script.js           # The JavaScript logic for functionality
 ├── README.md           # This file
 └── ...
-
+```
 
 ---
 
@@ -50,6 +50,21 @@ No server or additional setup is required. The project runs completely on the cl
 This project was developed by **Noura Maher**.
 
 ---
+
+## Contact
+
+For questions or suggestions, please open an issue or contact:
+Noura Maher Elamin
+[LinkedIn](https://www.linkedin.com/in/nouramaher/)
+[GitHub](https://github.com/NouraMaher)
+
+---
+
+<div align="center">
+
+⭐️ If you find this project helpful, please give it a star!
+
+</div>
 
 # آلة حاسبة هجينة (Hybrid Calculator)
 
@@ -79,14 +94,14 @@ This project was developed by **Noura Maher**.
 ---
 
 ## هيكلة المشروع
-
+```
 hybrid-calculator/
 ├── index.html          # ملف HTML الرئيسي للآلة الحاسبة
 ├── style.css           # جميع ملفات CSS للتنسيق والسمات
 ├── script.js           # منطق JavaScript للوظائف
 ├── README.md           # هذا الملف
 └── ...
-
+```
 
 ---
 
@@ -107,3 +122,19 @@ hybrid-calculator/
 
 
 
+---
+##  للتواصل
+للاستفسارات أو الاقتراحات، يرجى فتح "Issue" أو التواصل مع:
+نورا ماهر الأمين  
+[LinkedIn](https://www.linkedin.com/in/nouramaher/)
+[GitHub](https://github.com/NouraMaher)
+
+---
+
+<div align="center">
+
+⭐️ إذا وجدت هذا المشروع مفيدًا، فضلاً قم بعمل Star له!
+
+</div>
+
+---
